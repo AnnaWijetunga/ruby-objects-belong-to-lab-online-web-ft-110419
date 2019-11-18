@@ -8,7 +8,6 @@ class Artist
   end
  
 end
-  # a song should belong to an artist 
   
   # artist should have a name 
   
