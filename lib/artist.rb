@@ -8,6 +8,8 @@ class Artist
   end
  
 end
+
+song.artist.name 
   
   # artist should have a name 
   
