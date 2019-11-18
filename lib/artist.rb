@@ -6,6 +6,8 @@ class Artist
     @name = name
     @title = title 
   end
+  
+  
  
 end
   
