@@ -5,7 +5,9 @@ class Artist
   def initialize(name) 
     @name = name
   end
-  
+
+beyonce = Artist.new("Beyonce")
+
 end
   
   # artist should have a name 
